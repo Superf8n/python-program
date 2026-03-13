@@ -12,3 +12,4 @@ print("Even numbers using filter():", evens)
 
 total = reduce(lambda x, y: x + y, numbers)
 print("Sum using reduce():", total)
+
