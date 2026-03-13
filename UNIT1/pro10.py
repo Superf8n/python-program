@@ -1,4 +1,5 @@
-#10 Write a program to create 4 lambda functions which shall accept 2 numbers and one arithmetic operator. As per arithmetic operator related lambda functions shall be invoked.
+#10 Write a program to create 4 lambda functions which shall accept 2 numbers and one arithmetic operator. As per arithmetic operator related lambda functions shall be invoked.
+
 add = lambda x, y: x + y
 sub = lambda x, y: x - y
 mul = lambda x, y: x * y
